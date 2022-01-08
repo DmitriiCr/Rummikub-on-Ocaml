@@ -1,4 +1,4 @@
-Veuillez m'excuser pour gagner un peu de temps j'utilise pas des accents .
+Veuillez m'excuser pour gagner un peu de temps je n'utilise pas des accents .
 
 C'est un projet qui permet d'utiliser les connaissances de la theorie de l'ensemble et de langage fonctionnel ocaml appliqués dans le contexte de jeu des cartes . 
 Ce projet n'a pas de la partie automatiser et pour l'utiliser il faut un terminal et utiliser la commande " ocaml nom_fichier ". Soit vous pouvez copier le projet et de le coller dans la fenetre du terminal du site https://try.ocamlpro.com et d'executer 
